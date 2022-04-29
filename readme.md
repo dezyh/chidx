@@ -1,5 +1,5 @@
 # Takoyaki
-A chess database search engine
+A chess position search engine allowing partial positions to be searched in realtime.
 
 ## Roadmap
 - [ ] Parse Lichess PGNs from the (Lichess open database)[https://database.lichess.org]
